@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 41054cbf1d52cea4d8187ddedcd298e3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - This: {instanceID: 0}
+  - playerMovement: {instanceID: 0}
+  - playerScore: {instanceID: 0}
+  - one: {fileID: 5371625480846050049, guid: b6a96a1810203f54784638a6a98fb9df, type: 3}
+  - two: {fileID: 4076633357605388076, guid: fabb418f248169b49b3f2f4bbbcd8ad0, type: 3}
+  - three: {fileID: 9023398499014720877, guid: e7fa986d218b3f543bef2d06f9abc6a5, type: 3}
+  - four: {fileID: 7419395322969247247, guid: d0b1bbc4d1b7d044f83a0701106f437d, type: 3}
+  - five: {instanceID: 0}
+  - six: {instanceID: 0}
+  - seven: {instanceID: 0}
+  - eight: {instanceID: 0}
+  - playerRb: {instanceID: 0}
+  - oneE: {instanceID: 0}
+  - twoE: {instanceID: 0}
+  - threeE: {instanceID: 0}
+  - fourE: {instanceID: 0}
+  - fiveE: {instanceID: 0}
+  - sixE: {instanceID: 0}
+  - sevenE: {instanceID: 0}
+  - eightE: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
